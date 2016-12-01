@@ -1,0 +1,20 @@
+body, html {
+  height: 100%; }
+
+.main-container {
+  height: 100%;
+  margin-top: 50px; }
+
+.main-image {
+  background-image: url(../assets/stars_hollow.jpg);
+  height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; }
+
+.content-container {
+  background-color: yellow;
+  min-height: 700px; }
+
+/*# sourceMappingURL=styles.css.map */
