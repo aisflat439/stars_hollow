@@ -17,4 +17,7 @@ body, html {
   background-color: #8e8e8e;
   min-height: 500px; }
 
+.navbar {
+  font-size: 130%; }
+
 /*# sourceMappingURL=styles.css.map */
